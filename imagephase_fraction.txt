@@ -1,0 +1,2 @@
+Fraction of phase #1 = 31.71 %
+Fraction of phase #2 = 68.29 %
